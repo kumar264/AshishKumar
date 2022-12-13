@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>Ashish Kumar</h1>
+<p>Indian Institute of Technology Jodhpur 
+Rajasthan (India) 342030
+Telephone- +91-8853280127
+E- Mail- kumar.264@iitj.ac.in.</p>
+
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+<title>Page Title</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+</style>
+</head>
+<body>
+
+<h1>Ashish Kumar</h1>
+<p>IIT Jodhpur.</p>
+
+</body>
+</html>
